@@ -26,5 +26,5 @@ GOOGLE_APPLICATION_CREDENTIALS=key.json
 ## Run
 
 ```bash
-python main.py {bucket_name} {prefix} {download_folder}
+python download.py {bucket_name} {prefix} {download_folder}
 ```
